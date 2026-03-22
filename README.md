@@ -1,7 +1,12 @@
 # 💫 About Me:
-I’m a B.Tech graduate in AI & Data Science with hands-on experience in backend development, full-stack web development (MERN), and applied AI/ML.<br><br>I build practical, production oriented systems from secure REST APIs with JWT authentication to AI models for image, text, and activity recognition. I’m strong in Node.js, Python, MongoDB, SQL, and I consistently sharpen my skills through DSA practice and real-world projects.<br><br>My work includes computer vision and NLP projects, data analysis using Pandas & NumPy, and scalable backend architecture using Node.js & Express. I value clean code, solid fundamentals, and systems that actually work under real constraints.<br> 
-📌 Interests: Backend Engineering, Full Stack Development, AI/ML.<br>
-📫 Open to entry-level roles in Software Development, Backend and AI.
+- 💻 Backend-focused Full Stack Developer with strong experience in Node.js and Express.js  
+- ⚙️ Skilled in building scalable REST APIs with secure authentication (JWT, RBAC)  
+- 🗄️ Experienced in MongoDB, MySQL, and efficient database design  
+- ⚡ Worked with Redis caching to improve performance and reduce database load  
+- 🔐 Strong focus on API security, validation, and clean backend architecture (MVC)  
+- 🌐 Built full-stack applications using the MERN stack and real-time systems with Socket.io  
+- 📈 Solved 200+ DSA problems and continuously improving problem-solving skills  
+- 🎯 Currently learning advanced backend concepts and system design  
 
 
 
