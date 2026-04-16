@@ -78,11 +78,12 @@
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AnilMende&exclude_repo=AnilMende&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=AnilMende&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AnilMende&exclude_repo=AnilMende&hide=Jupyter%20Notebook&layout=compact&theme=dark)
+![](https://github-readme-stats.shion.dev/api?username=AnilMende&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=AnilMende&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=AnilMende&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-[![](https://visitcount.itsvg.in/api?id=AnilMende&icon=0&color=0)](https://visitcount.itsvg.in)
+---
+[![](https://komarev.com/ghpvc/?username=AnilMende&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ---
 
