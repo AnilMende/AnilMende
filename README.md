@@ -67,6 +67,21 @@
 
 ---
 
+### 📚 Study Planner Application
+A full-stack Study Planner designed to help students organize their learning journey, track progress, manage revisions, maintain study streaks, and analyze productivity through interactive dashboards.
+- Authentication & Security
+- Subject Management
+- Topic Management
+- Revision System
+- Analytics Dashboard
+- Streak Tracking
+- User Settings
+- Search Functionality
+
+ 👉 [View Project](https://github.com/AnilMende/Study-Plan-FullStack)
+
+ ---
+
 ### 💬 Real-Time Chat Application
 ⚡ Real-time messaging system with concurrent users  
 - Socket.io for instant communication  
