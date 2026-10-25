@@ -58,26 +58,24 @@
 ---
 
 ### 🍔 Full-Stack Food Delivery Platform
-🌐 Real-world food delivery system with payments and admin dashboard  
-- 20+ REST APIs  
-- Stripe Payment Integration  
-- Order & User Management  
-- Scalable MongoDB schema design  
+#### MERN Stack · Stripe
+🌐 A full-stack food ordering application with payment integration and order management.
+- Developed 20+ REST APIs.
+- Integrated Stripe payment processing.
+- Implemented user, order, and administration workflows.
+- Designed MongoDB schemas for application data.
 
 👉 [View Project](https://github.com/AnilMende/Building-a-Food-Delivery-Website-In-React-JS-MongoDB-Express-Node-JS-Stripe)
 
 ---
 
 ### 📚 Study Planner Application
-A full-stack Study Planner designed to help students organize their learning journey, track progress, manage revisions, maintain study streaks, and analyze productivity through interactive dashboards.
-- Authentication & Security
-- Subject Management
-- Topic Management
-- Revision System
-- Analytics Dashboard
-- Streak Tracking
-- User Settings
-- Search Functionality
+#### Full Stack · React · Node.js · MongoDB
+A productivity application that helps students organize subjects, track learning progress, and manage revisions.
+- Subject and topic management.
+- Revision scheduling and study streak tracking.
+- Productivity analytics dashboard and search functionality.
+- User authentication and settings.
 
  👉 [View Project](https://github.com/AnilMende/Study-Plan-FullStack)
 
