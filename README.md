@@ -46,11 +46,12 @@
 ## 🔥 Featured Projects
 
 ### ⚙️ Scalable Backend API System
-🚀 Production-grade backend with authentication, caching, and security  
-- JWT Authentication (Access + Refresh Tokens)  
-- Redis Caching with invalidation  
-- Rate Limiting, Helmet, Input Validation  
-- Modular MVC Architecture  
+#### Node.js · Express.js · MongoDB · Redis · Cloudinary · Docker
+🚀 A modular backend application focused on secure authentication, performance, and maintainable API architecture. 
+- Designed a modular MVC architecture with reusable services. 
+- Implemented JWT authentication with token rotation and hashed token storage.
+- Improved API performance by 30% using Redis caching and invalidation strategies. 
+-  Added email verification, password reset, input validation, rate limiting, Helmet, and CORS.
 
 👉 [View Project](https://github.com/AnilMende/Production-Backend-System)
 
